@@ -19,3 +19,27 @@
 [submodule "foundry-smart-contract-lottery-f25/lib/foundry-devops"]
 	path = foundry-smart-contract-lottery-f25/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-ERC20/lib/forge-std"]
+	path = foundry-ERC20/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-ERC20/lib/openzeppelin-contracts"]
+	path = foundry-ERC20/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-NFTs/lib/forge-std"]
+	path = foundry-NFTs/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-NFTs/lib/openzeppelin-contracts"]
+	path = foundry-NFTs/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-NFTs/lib/foundry-devops"]
+	path = foundry-NFTs/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-DeFi/lib/forge-std"]
+	path = foundry-DeFi/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-DeFi/lib/openzeppelin-contracts"]
+	path = foundry-DeFi/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-DeFi/lib/chainlink-brownie-contracts"]
+	path = foundry-DeFi/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
